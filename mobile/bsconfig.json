@@ -1,0 +1,25 @@
+{
+  "name": "paris-piscine",
+  "version": "0.1.0",
+  "suffix": ".bs.js",
+  "refmt": 3,
+  "warnings": { "error": "+101" },
+  "reason": { "react-jsx": 3 },
+  "bs-dependencies": [
+    "@glennsl/bs-json",
+    "bs-fetch",
+    "reason-react",
+    "bs-react-native-monorepo/reason-react-native"
+  ],
+  "package-specs": {
+    "module": "es6",
+    "in-source": true
+  },
+  "sources": {
+    "dir": "src",
+    "subdirs": true
+  },
+  "js-post-build": {
+    "cmd": "./node_modules/bs-react-native-monorepo/git-monorepo-usage-trick"
+  }
+}
