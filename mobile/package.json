@@ -16,7 +16,7 @@
     "@glennsl/bs-json": "3.0.0",
     "bs-fetch": "0.3.1",
     "bs-react-native-monorepo": "git://github.com/reasonml-community/bs-react-native#756f2f34fefeed1c3d1ed389330278ecd0434aca",
-    "lodash": "4.17.11",
+    "lodash": "4.17.13",
     "react": "16.8.3",
     "react-native": "0.59.8",
     "react-native-gesture-handler": "1.2.1",
