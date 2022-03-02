@@ -18,7 +18,7 @@
     "bs-react-native-monorepo": "git://github.com/reasonml-community/bs-react-native#756f2f34fefeed1c3d1ed389330278ecd0434aca",
     "lodash": "4.17.19",
     "react": "16.8.3",
-    "react-native": "0.59.8",
+    "react-native": "0.62.3",
     "react-native-gesture-handler": "1.2.1",
     "react-native-maps": "0.24.2",
     "react-navigation": "3.9.1",
